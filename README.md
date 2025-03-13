@@ -1,0 +1,2 @@
+# NoHooker
+一个通过控制指定内存段权限设置而实现阻止app自身inline hook行为的内核模块
